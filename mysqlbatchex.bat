@@ -13,7 +13,7 @@ IF NOT EXIST "%db_dump_dir%" MKDIR "%db_dump_dir%"
 CLS
 ECHO.
 ECHO ...............................................
-ECHO Menu de administracion de db by RicardoAmun :)
+ECHO Menu de importacion y exportacion de bases de datos MySQL/MariaDB by MedievalCowboy
 ECHO ...............................................
 ECHO.
 ECHO 1 - Exportar db
